@@ -10,5 +10,7 @@ fetchOrder } from './order'
 
 export {
     auth,
-    logout
+    logout,
+    setAuthRedirectPath,
+    authCheckState
 } from './auth'
