@@ -6,7 +6,7 @@ export {
 export { 
     purchaseBurger,
     purchaseInit,
-fetchOrder } from './order'
+    fetchOrder } from './order'
 
 export {
     auth,
